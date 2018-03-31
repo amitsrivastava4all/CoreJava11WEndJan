@@ -1,0 +1,51 @@
+1. Sourcing 
+Name
+DOB
+Loan Type (HL , AL , EL , PL )
+Loan Amount 10 Lakh
+Duration  20 Years
+Asset Value 10 Lakh
+Application No - HL-1001
+
+2. QDE
+Name
+Loan Type 
+Duration 
+Address 
+Phone Number, Email
+Adhar
+Education 
+Income P.A
+Liability Value
+Assets Value
+
+Dedupe Check
+Negative Customer Array
+Adhar + Phone + DOB  + Email
+
+Decision Banker (Yes , NO)
+
+Scoring
+Age 21 to 40
+City 
+Assets Value More
+Educated
+Income 
+70%
+HL - 85% - 10 , 20 ,30
+AL - 55% Duration Max 7
+EL - 100%
+PL 50% ROI High
+
+Loan For - Amount , Duration , ROI
+Accept , Reject
+EMI Schedule
+110
+100 (P) + 10 (I)
+10/10 = 1
+100 Amount + 10% ROI
+10 
+100/10 = 10  + 1  = 11  EMI 
+Loan - 100  P - 10 + I - 1 = 11 
+             90     P - 10 + 1 = 11
+             80  
